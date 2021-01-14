@@ -1,0 +1,16 @@
+{
+  "name": "intro-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "ungit": "ungit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ungit": "^1.5.15"
+  }
+}
